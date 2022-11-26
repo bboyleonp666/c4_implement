@@ -1,0 +1,2 @@
+# Lexer
+After compilation, `segmentation fault` will appear. It is fine to see that, since the script will try to execute the virtual machine we have established in the last chapter, but there's no rules for compilation in it.

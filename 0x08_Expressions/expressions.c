@@ -488,7 +488,7 @@ void expression(int level) {
         }
 
         expr_type = expr_type + PTR;
-    } else if (token=-'!') {
+    } else if (token=='!') {
         // not operation
         match('!');
         expression(Inc);
